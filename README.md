@@ -9,7 +9,13 @@ Technologies used: ReactJs with Redux
 ![alt text](https://github.com/ggondimrb/ggstore-frontend/blob/master/demo.png?raw=true)
 
 
+## Requirements
+
+Have this application's [API](https://github.com/ggondimrb/ggstore-backend) running
+
 ## In root directory execute:
+
+
 
 ```bash
 # install dependencies
