@@ -1,5 +1,9 @@
 # GGStore Frontend
 
+## Demo
+
+![alt text](https://github.com/ggondimrb/ggstore-frontend/blob/master/demo.png?raw=true)
+
 
 ## In root directory execute:
 
