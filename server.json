@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Tenis caminhada",
+      "price": 179.9,
+      "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-selene-feminino/06/D22-3308-006/D22-3308-006_zoom2.jpg?ts=1587075262&ims=326x"
+    },
+    {
+      "id": 2,
+      "title": "Tênis Olympikus Diffuse 3 Feminino",
+      "price": 199.9,
+      "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-diffuse-3-feminino/08/D22-3301-008/D22-3301-008_zoom2.jpg?ts=1576520481&ims=326x"
+    },
+    {
+      "id": 3,
+      "title": "Tenis corre",
+      "price": 139.9,
+      "image": "https://static.netshoes.com.br/produtos/tenis-adidas-falcon-masculino/26/COL-4399-026/COL-4399-026_zoom2.jpg?ts=1584531781&ims=326x"
+    },
+    {
+      "id": 4,
+      "title": "Tenis medio",
+      "price": 179.9,
+      "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-selene-feminino/06/D22-3308-006/D22-3308-006_zoom2.jpg?ts=1587075262&ims=326x"
+    },
+    {
+      "id": 5,
+      "title": "Tenis legal",
+      "price": 159.9,
+      "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-flit-feminino/12/D22-0515-012/D22-0515-012_zoom2.jpg?ts=1587562006&ims=326x"
+    },
+    {
+      "id": 6,
+      "title": "Tenis que compraria rs",
+      "price": 119.9,
+      "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-glass-feminino/14/D22-3588-014/D22-3588-014_zoom2.jpg?ts=1579609177&ims=326x"
+    }
+  ]
+}
